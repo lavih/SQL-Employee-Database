@@ -1,4 +1,4 @@
-# Modeling-Engineering-Analysis
+# Employee Database
 
 ![sql.jpg](https://github.com/jbizzlefoshizzle/Modeling-Engineering-Analysis/blob/master/images/sql.jpg)
 
